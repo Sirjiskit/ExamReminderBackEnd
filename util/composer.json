@@ -1,0 +1,21 @@
+{
+    "name": "jiskit/util",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Suenos Inc.",
+            "email": "Jiskit015@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">5.4.2",
+        "phpoffice/phpspreadsheet": "^1.18",
+        "cboden/ratchet": "^0.4.3"
+        
+    },
+    "config": {
+        "platform": {
+            "php": "7.4.3"
+        }
+    }
+}
